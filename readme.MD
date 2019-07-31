@@ -1,4 +1,4 @@
-### Prediction Test
+# Prediction Test
 
 This is a take home test for Data Scientist Job Vacancy. You are to predict the sales outcome from mosquito-repellant product from January to March 2019 given:
 
